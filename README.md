@@ -7,10 +7,10 @@ This project aims to improve inventory management, demand forecasting, and custo
 
 
 ## Key Features:
-Seasonal Demand Analysis: Identifies high-revenue months and products in demand.
-ARIMA Forecasting: Predicts future revenue and supports better planning.
-Stock Optimization: Classifies products as seasonal or consistent to optimize inventory space.
-Customer Behavior Analysis: Prioritizes repeat customers and tailors service offerings.
+1. Seasonal Demand Analysis: Identifies high-revenue months and products in demand.
+2. ARIMA Forecasting: Predicts future revenue and supports better planning.
+3. Stock Optimization: Classifies products as seasonal or consistent to optimize inventory space.
+4. Customer Behavior Analysis: Prioritizes repeat customers and tailors service offerings.
 
 
 ## Technologies Used
@@ -33,14 +33,14 @@ Customer Segmentation: Identifies frequent buyers and prioritizes based on servi
 
 
 ## Key Findings
-Peak Revenue Months: July to September and December contribute over 50% of the annual revenue.
-ARIMA Forecasting: August 2025 shows the highest predicted revenue.
-Top-Selling Items: Products like Hydraulic Oil and PNP Sensors should always be in stock.
-Customer Retention: Over 90% of revenue comes from repeat buyers, especially individual businesses.
+1. Peak Revenue Months: July to September and December contribute over 50% of the annual revenue.
+2. ARIMA Forecasting: August 2025 shows the highest predicted revenue.
+3. Top-Selling Items: Products like Hydraulic Oil and PNP Sensors should always be in stock.
+4. Customer Retention: Over 90% of revenue comes from repeat buyers, especially individual businesses.
 
 
 ## Recommendations
-Staffing: Employ temporary workers during peak months (July to September, December).
-Stocking Strategy: Pre-order essential items before peak months to prevent stockouts.
-Customer Engagement: Strengthen relationships with high-revenue customers like Rajaguru Spinning Mills.
-Space Optimization: Prioritize space for high-demand, small-quantity items like Hydraulic Oil.
+1. Staffing: Employ temporary workers during peak months (July to September, December).
+2. Stocking Strategy: Pre-order essential items before peak months to prevent stockouts.
+3. Customer Engagement: Strengthen relationships with high-revenue customers like Rajaguru Spinning Mills.
+4. Space Optimization: Prioritize space for high-demand, small-quantity items like Hydraulic Oil.
